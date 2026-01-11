@@ -106,6 +106,7 @@ File Name: <a href="https://github.com/rajan-kumar-mu1439/salary-prediction-ml/b
 
 ▶️ How to Run This Project
 🔹 Step 1: Clone Repository
+
 git clone https://github.com/rajan-kumar-mu1439/salary-prediction-ml
 
 🔹 Step 2: Install Dependencies
